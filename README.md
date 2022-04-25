@@ -5,8 +5,12 @@ This website will allow the user to organize their work schedule. Helpful tools 
 ![_C__Users_Home_OneDrive_Desktop_projects_workday-scheduler_Develop_index html](https://user-images.githubusercontent.com/96861913/165035972-a042393b-4c94-4346-9ded-0f433781adc0.png)
 
 # Technologies Used
-
+* HTML
+* CSS
+* Moment.js
+* Javascript
 # URL
+https://analizajb.github.io/workday-scheduler/
 
 # Made by:
 Analiza Boehning
